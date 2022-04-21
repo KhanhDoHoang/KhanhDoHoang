@@ -6,5 +6,4 @@
 - 🔭 I’m currently learning some React, Angular and .Net to build some cool websites that you can find them within my repo list
 - 💬 Ask me about my skills, projects, or anything intersting you from viewing my profile
 - 📫 How to reach me: katievincy226@gmail.com
-- 😄 Pronouns: She/Her
 
